@@ -26,6 +26,7 @@ return {
                 "svelte",
                 "lua_ls",
                 "tsserver",
+                "gopls",
             },
             automatic_installation = true,
         })
